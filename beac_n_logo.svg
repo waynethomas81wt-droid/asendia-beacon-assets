@@ -1,0 +1,9 @@
+<svg viewBox="0 0 175 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- BEAC text -->
+  <text x="0" y="37" font-family="'Proxima Nova', -apple-system, sans-serif" font-size="39" font-weight="700" fill="#1e2024" letter-spacing="-0.3px">BEAC</text>
+  
+  <!-- Gap placeholder for the animated O -->
+  
+  <!-- N text -->
+  <text x="122" y="37" font-family="'Proxima Nova', -apple-system, sans-serif" font-size="39" font-weight="700" fill="#1e2024" letter-spacing="-0.3px">N</text>
+</svg>
